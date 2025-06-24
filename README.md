@@ -8,9 +8,7 @@
 👋 Hi, I’m @JonathanLiang. I'm a computer science student with a passion for coding and music.
 👋 嗨，我是 @JonathanLiang，一名计算机专业的学生，热爱编码和音乐。
 
-这是我自主设计的个人Logo：This is my self - designed personal logo:
-
-<img src=".\Pictures_Liang\Logo.png" alt="Logo" style="zoom:15%;" />
+这是我自主设计的个人Logo：This is my self - designed personal logo:<img src=".\Pictures_Liang\Logo.png" alt="Logo" style="zoom:5%;" />
 
 ## 🌱 目前正在学习
 
