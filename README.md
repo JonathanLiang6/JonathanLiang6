@@ -10,7 +10,7 @@
 👋 Hi, I’m @JonathanLiang. I'm a computer science student with a passion for coding and music.
 👋 嗨，我是 @JonathanLiang，一名计算机专业的学生，热爱编码和音乐。
 
-![Logo](.\Pictures_Liang\Logo.png)
+![Logo](./Pictures_Liang/Logo.png)
 
 我的头像是我自主设计的个人Logo
 
