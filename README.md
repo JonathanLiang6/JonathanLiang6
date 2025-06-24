@@ -10,7 +10,9 @@
 👋 Hi, I’m @JonathanLiang. I'm a computer science student with a passion for coding and music.
 👋 嗨，我是 @JonathanLiang，一名计算机专业的学生，热爱编码和音乐。
 
-我的头像是我自主设计的个人Logo<img src="E:\Typora\picture\Logo-1750750585086-5.png" style="zoom:80%;float:right" />
+![Logo](.\Pictures_Liang\Logo.png)
+
+我的头像是我自主设计的个人Logo
 
 My profile picture is a personal logo I designed independently
 
