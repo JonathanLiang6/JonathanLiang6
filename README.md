@@ -30,49 +30,7 @@ My profile picture is a personal logo I designed independently
 
 ### 💼 Main Projects
 
-### 文本分析系统 PorterStemmer_Imitation
-
-#### Language：C++
-
-- **功能**：英文词干提取 | 文本相似度计算 | 交互式查询  
-- **Functions**: English stemming | Text similarity calculation | Interactive query  
-- **技术**：C++11 | AVL树 | UTF-8支持 | 改进版Porter Stemmer算法  
-
-- **Technologies**: C++11 | AVL tree | UTF-8 support | Improved Porter Stemmer algorithm  
-
-### 智能笔记助手 NoteMaster
-
-#### Language：C#
-
-- **功能**：笔记管理 | 待办事项 | 文件夹管理等
-
-- **Functions**: Note management | To-do item management | Folder management  
-- **技术**：C# | WPF | MVVM | SQLite | JSON  
-- **Technologies**: C# | WPF | MVVM | SQLite | JSON  
-
-### 基于RISC-V的串行计算单元 RV32I_Serial_Compute_Unit
-
-- 功能：实现RISC-V指令集 | 寄存器操作 | 数据存储 | 数码管显示  
-- **Functions**: Implement RISC-V instruction set | Register operation | Data storage | Seven-segment display control  
-- 技术：Verilog | ALU设计 | 时钟分频控制  
-
-- **Technologies**: Verilog | ALU design | Clock division control  
-
-### 高云FPGA秒表 GW_Timer
-
-- 功能：00:00-59:59计时 | 暂停预置 | LED状态指示  
-- **Functions**: 00:00-59:59 timing | Pause preset | LED status indication  
-- 技术：高云GW1N FPGA | 数字逻辑设计 | PCB硬件开发  
-
-- **Technologies**: Gowin GW1N FPGA | Digital logic design | PCB development  
-
-### 良识云库 LOKR：Liang’s Online Knowledge Repository
-
-- 定位：基于Obsidian的知识管理平台
-- **Positioning**: Obsidian-based knowledge management platform    
-- 特点：多领域内容聚合 | 仓库克隆+Obsidian导入使用  
-
-- **Features**: Multi-domain content aggregation | Repository cloning + Obsidian import  
+- [Projects](./Projects_Liang.md)，可查看本仓库内`Projects_Liang.md`文件
 
 ## 📫 如何联系我
 
