@@ -86,6 +86,36 @@ Welcome to my project portfolio! This document provides detailed information abo
 
 ---
 
+### 🛡️ 天盾 - 反诈智能体助手
+
+**语言** | **Language**: Python + Vue 3
+
+**链接** | **Link**: [GitHub](https://github.com/JonathanLiang6/fanzha)
+
+**项目概述** | **Overview**
+
+天盾是一个基于 doubao-seed2 多模态大模型的反诈智能体助手系统，实现了"感知 → 决策 → 干预 → 进化"四阶能力闭环。支持文本、语音、图像、视频多种模态输入，能够精准识别12种常见诈骗类型，并提供分级预警、监护人联动和个性化风险评估。
+
+**核心特性** | **Features**
+
+- 多模态诈骗检测：文本/语音/图片/视频
+- 12种诈骗类型识别：投资理财、刷单返利、冒充公检法等
+- 分级预警机制：低/中/高/紧急四级
+- 监护人联动：自动通知 + 风险事件推送
+- 个性化风险评估：基于用户画像动态调整阈值
+- 知识库自适应进化：自动爬取更新反诈案例
+- 安全监测报告：可视化统计分析
+
+**技术亮点** | **Technical Highlights**
+
+- FastAPI 后端架构，WebSocket 实时通信
+- ChromaDB 向量数据库实现语义检索
+- doubao-seed2 多模态大模型集成（火山引擎）
+- Vue 3 + Element Plus + ECharts 可视化前端
+- SQLite 关系数据库管理
+
+---
+
 ## 📱 软件开发 Software Development
 
 ### 📝 NoteMaster
@@ -356,9 +386,9 @@ xv6-labs-2022 实验代码库，基于 Unix v6 的教学操作系统。用于操
 |------|----------|----------|
 | 硬件与系统设计 | 5 | Verilog, C |
 | 软件开发 | 3 | C#, Vue.js, Python |
-| 数据与人工智能 | 4 | Python, C++, OCaml |
+| 数据与人工智能 | 5 | Python, C++, OCaml, Vue 3 |
 | 知识管理 | 1 | Markdown, Obsidian |
-| **总计** | **14** | - |
+| **总计** | **15** | - |
 
 ---
 
