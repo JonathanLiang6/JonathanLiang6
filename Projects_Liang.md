@@ -345,17 +345,36 @@ xv6-labs-2022 实验代码库，基于 Unix v6 的教学操作系统。用于操
 <div align="center">
 
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![Wails](https://img.shields.io/badge/Wails-v2-238636?style=for-the-badge)
+  ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
   [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/Along)
 
 </div>
 
-基于 Go 语言的项目，专注于高性能后端服务与并发编程实践。探索 Go 在系统级编程和云原生应用中的最佳实践。
+基于 **Go + Wails + React** 的多 Agent 智能助手桌面应用。通过 **Orchestrator（主 Agent）** 统一编排 10 个专业子 Agent 协作，提供对话、规划、记忆、调研、自动化等能力。
 
 **核心特性**:
-- Go 语言核心特性实践
-- 并发编程与 goroutine 应用
-- 持续开发与迭代中
+- 🤖 **智能对话**：自然语言交互，支持流式响应，上下文感知
+- 🎯 **Agent 编排**：LLM 驱动的主 Agent 自动分析意图 → 生成执行计划 → 调度子 Agent 协作完成复杂任务
+- 🧠 **记忆系统**：5 层长期记忆（L1 个人画像 → L5 日常喜好），自动提取与去重
+- 📋 **计划管理**：目标拆解、里程碑追踪、进度可视化、打卡记录
+- 🔍 **联网调研**：多引擎搜索（DuckDuckGo + Bing），AI 自动总结生成结构化报告
+- 🔄 **反思复盘**：周期性成长分析、关系回顾、项目总结
+- 🛠️ **工具调用**：文件读写、目录浏览、Git 操作、浏览器打开
+- ⚙️ **自动化任务**：Cron 定时调度 + 可视化工作流编排，支持 10 种任务类型
+
+**10 个子 Agent**:
+Planner（计划）、Web（搜索）、TechAnalysis（技术分析）、Research（调研）、Summarize（摘要）、FileGeneration（文件生成）、Tool（工具）、Reflection（反思）、Memory（记忆）、Emotion（情感）
+
+**技术栈**:
+- 桌面壳：Wails v2
+- 后端：Go 1.25+
+- 前端：React 18 + Vite 5 + Tailwind CSS 3
+- 数据库：SQLite（WAL 模式）
+- AI 提供商：DeepSeek / 智谱 GLM-4 / 通义千问
+- 定时调度：robfig/cron v3
 
 ---
 

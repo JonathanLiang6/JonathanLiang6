@@ -19,11 +19,32 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonathanLiang6&show_icons=true&theme=transparent&bg_color=0D1117&title_color=238636&icon_color=238636&text_color=C9D1D9&hide_border=true&hide=contribs,prs&rank=3&count_private=true" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=JonathanLiang6&show_icons=true&hide_border=true&count_private=true&title_color=238636&icon_color=238636&text_color=C9D1D9&bg_color=0D1117&hide=contribs,prs&rank=3" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanLiang6&background=0D1117&color=238636&stroke=238636&ring=238636&fire=238636&currStreakLabel=238636&sideLabels=238636&dates=238636&currStreakNum=238636&sideNums=238636&border=30363D" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=JonathanLiang6&show_icons=true&hide_border=true&count_private=true&title_color=238636&icon_color=238636&text_color=C9D1D9&bg_color=0D1117&include_all_icons=true" alt="Trophies" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-wakatime.vercel.app/api?username=JonathanLiang6&hide_border=true&title_color=238636&text_color=C9D1D9&icon_color=238636&bg_color=0D1117" alt="WakaTime" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
   <img src="./dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=random&theme=dark&bg=0D1117&color=C9D1D9&quote=238636" alt="Quote" />
 </div>
 
 ---
@@ -41,8 +62,8 @@
 
   ![Vue.js](https://img.shields.io/badge/vue.js-%2335495E.svg?style=for-the-badge&logo=vue.js&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 
   ![RISC-V](https://img.shields.io/badge/RISC--V-%23A6222C.svg?style=for-the-badge&logo=riscv&logoColor=white)
   ![FPGA](https://img.shields.io/badge/FPGA-%2300C5FF.svg?style=for-the-badge&logo=xilinx&logoColor=white)
@@ -59,26 +80,26 @@
   <table>
     <tr>
       <td align="center" width="50%">
+        <h3>🎮 Along</h3>
+        <p>Go + Wails + React 多 Agent 智能助手桌面应用，Orchestrator 统一编排 10 个专业子 Agent</p>
+        <a href="https://github.com/JonathanLiang6/Along">
+          <img src="https://img.shields.io/badge/Along-Multi%20Agent%20Desktop-238636?style=for-the-badge" alt="Along" />
+        </a>
+      </td>
+      <td align="center" width="50%">
         <h3>🧠 KnowledgeGraph</h3>
         <p>个人知识库管理平台 v4.0，基于 FastAPI + Vue 3，支持 Agent 多步推理与知识覆盖诊断</p>
         <a href="https://github.com/JonathanLiang6/KnowledgeGraph">
           <img src="https://img.shields.io/badge/KnowledgeGraph-View%20Project-238636?style=for-the-badge" alt="KnowledgeGraph" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="50%">
         <h3>🛡️ 天盾 - 反诈智能体</h3>
         <p>基于多模态大模型的反诈智能体助手，实现感知→决策→干预→进化四阶能力闭环</p>
         <a href="https://github.com/JonathanLiang6/fanzha">
           <img src="https://img.shields.io/badge/天盾-反诈智能体-238636?style=for-the-badge" alt="天盾" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🎮 Along</h3>
-        <p>Go 语言项目，专注于高性能后端服务与并发编程实践</p>
-        <a href="https://github.com/JonathanLiang6/Along">
-          <img src="https://img.shields.io/badge/Along-Go%20Project-238636?style=for-the-badge" alt="Along" />
         </a>
       </td>
       <td align="center" width="50%">
@@ -95,6 +116,9 @@
 ---
 
 ## 📂 所有项目 (15)
+
+### 🐣 其他
+- **[Along](https://github.com/JonathanLiang6/Along)** — 多 Agent 智能助手桌面应用（Go + Wails + React）
 
 ### 🧠 数据与人工智能
 - **[KnowledgeGraph](https://github.com/JonathanLiang6/KnowledgeGraph)** — 个人知识库管理平台 v4.0（Python + Vue 3）
@@ -119,9 +143,6 @@
 
 ### 📚 知识管理
 - **[Liang_Online_Knowledge_Repository](https://github.com/JonathanLiang6/Liang_Online_Knowledge_Repository)** — 良识云库 LOKR（Markdown + Obsidian）
-
-### 🐣 其他
-- **[Along](https://github.com/JonathanLiang6/Along)** — Go 语言项目（Go）
 
 查看完整项目详情 → [Projects_Liang.md](./Projects_Liang.md)
 
