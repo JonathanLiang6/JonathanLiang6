@@ -12,39 +12,6 @@ Welcome to my project portfolio! 以下是我在 GitHub 上维护的所有公开
 
 ## 🧠 数据与人工智能
 
-### 🔗 KnowledgeGraph
-
-<div align="center">
-
-  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/vue.js-%2335495E.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23871EFF.svg?style=for-the-badge&logo=chroma&logoColor=white)
-
-  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/KnowledgeGraph)
-
-</div>
-
-**版本**: v4.0
-
-个人知识库管理平台。将非结构化文档转化为结构化知识图谱，提供拓扑导航、混合检索、Agent 多步推理与知识覆盖诊断。采用 FastAPI + Vue 3 技术栈，支持 Docker 一键部署。
-
-**核心特性**:
-- 🌐 拓扑导航台：基于 D3.js 力导向图的层级知识库管理
-- 📄 文档管理：支持 PDF/DOCX/PPTX/EPUB/Markdown/HTML/TXT/图片多格式
-- 🕸️ 知识图谱：自动构建实体-关系知识图谱，双轨存储架构
-- 💬 智能问答：SSE 流式输出，Markdown 实时渲染
-- 🤖 Agent 工具集：多步推理、记忆系统、联网搜索、图像感知
-- 📊 知识覆盖诊断：ECharts Treemap 矩形树图渲染
-
-**技术亮点**:
-- 检索融合 (RRF) 算法
-- 文档处理流水线（6阶段异步处理）
-- 实体对齐与关系去重
-- PaddleOCR + BLIP 图像感知
-
----
-
 ### 🎥 BayesSigmoid-Defocus
 
 <div align="center">
@@ -89,6 +56,79 @@ Welcome to my project portfolio! 以下是我在 GitHub 上维护的所有公开
 - AVL 树数据结构应用
 - C++20 现代特性
 - 算法优化策略
+
+---
+
+## 🤖 AI & Agent
+
+### 🎮 Along
+
+<div align="center">
+
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![Wails](https://img.shields.io/badge/Wails-v2-238636?style=for-the-badge)
+  ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/Along)
+
+</div>
+
+基于 **Go + Wails + React** 的多 Agent 智能助手桌面应用。通过 **Orchestrator（主 Agent）** 统一编排 10 个专业子 Agent 协作，提供对话、规划、记忆、调研、自动化等能力。
+
+**核心特性**:
+- 🤖 **智能对话**：自然语言交互，支持流式响应，上下文感知
+- 🎯 **Agent 编排**：LLM 驱动的主 Agent 自动分析意图 → 生成执行计划 → 调度子 Agent 协作完成复杂任务
+- 🧠 **记忆系统**：5 层长期记忆（L1 个人画像 → L5 日常喜好），自动提取与去重
+- 📋 **计划管理**：目标拆解、里程碑追踪、进度可视化、打卡记录
+- 🔍 **联网调研**：多引擎搜索（DuckDuckGo + Bing），AI 自动总结生成结构化报告
+- 🔄 **反思复盘**：周期性成长分析、关系回顾、项目总结
+- 🛠️ **工具调用**：文件读写、目录浏览、Git 操作、浏览器打开
+- ⚙️ **自动化任务**：Cron 定时调度 + 可视化工作流编排，支持 10 种任务类型
+
+**10 个子 Agent**:
+Planner（计划）、Web（搜索）、TechAnalysis（技术分析）、Research（调研）、Summarize（摘要）、FileGeneration（文件生成）、Tool（工具）、Reflection（反思）、Memory（记忆）、Emotion（情感）
+
+**技术栈**:
+- 桌面壳：Wails v2
+- 后端：Go 1.25+
+- 前端：React 18 + Vite 5 + Tailwind CSS 3
+- 数据库：SQLite（WAL 模式）
+- AI 提供商：DeepSeek / 智谱 GLM-4 / 通义千问
+- 定时调度：robfig/cron v3
+
+---
+
+### 🔗 KnowledgeGraph
+
+<div align="center">
+
+  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/vue.js-%2335495E.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23871EFF.svg?style=for-the-badge&logo=chroma&logoColor=white)
+
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/KnowledgeGraph)
+
+</div>
+
+**版本**: v4.0
+
+个人知识库管理平台。将非结构化文档转化为结构化知识图谱，提供拓扑导航、混合检索、Agent 多步推理与知识覆盖诊断。采用 FastAPI + Vue 3 技术栈，支持 Docker 一键部署。
+
+**核心特性**:
+- 🌐 拓扑导航台：基于 D3.js 力导向图的层级知识库管理
+- 📄 文档管理：支持 PDF/DOCX/PPTX/EPUB/Markdown/HTML/TXT/图片多格式
+- 🕸️ 知识图谱：自动构建实体-关系知识图谱，双轨存储架构
+- 💬 智能问答：SSE 流式输出，Markdown 实时渲染
+- 🤖 Agent 工具集：多步推理、记忆系统、联网搜索、图像感知
+- 📊 知识覆盖诊断：ECharts Treemap 矩形树图渲染
+
+**技术亮点**:
+- 检索融合 (RRF) 算法
+- 文档处理流水线（6阶段异步处理）
+- 实体对齐与关系去重
+- PaddleOCR + BLIP 图像感知
 
 ---
 
@@ -337,46 +377,6 @@ xv6-labs-2022 实验代码库，基于 Unix v6 的教学操作系统。用于操
 
 ---
 
-## 🐣 其他
-
-### 🎮 Along
-
-<div align="center">
-
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=white)
-  ![Wails](https://img.shields.io/badge/Wails-v2-238636?style=for-the-badge)
-  ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/Along)
-
-</div>
-
-基于 **Go + Wails + React** 的多 Agent 智能助手桌面应用。通过 **Orchestrator（主 Agent）** 统一编排 10 个专业子 Agent 协作，提供对话、规划、记忆、调研、自动化等能力。
-
-**核心特性**:
-- 🤖 **智能对话**：自然语言交互，支持流式响应，上下文感知
-- 🎯 **Agent 编排**：LLM 驱动的主 Agent 自动分析意图 → 生成执行计划 → 调度子 Agent 协作完成复杂任务
-- 🧠 **记忆系统**：5 层长期记忆（L1 个人画像 → L5 日常喜好），自动提取与去重
-- 📋 **计划管理**：目标拆解、里程碑追踪、进度可视化、打卡记录
-- 🔍 **联网调研**：多引擎搜索（DuckDuckGo + Bing），AI 自动总结生成结构化报告
-- 🔄 **反思复盘**：周期性成长分析、关系回顾、项目总结
-- 🛠️ **工具调用**：文件读写、目录浏览、Git 操作、浏览器打开
-- ⚙️ **自动化任务**：Cron 定时调度 + 可视化工作流编排，支持 10 种任务类型
-
-**10 个子 Agent**:
-Planner（计划）、Web（搜索）、TechAnalysis（技术分析）、Research（调研）、Summarize（摘要）、FileGeneration（文件生成）、Tool（工具）、Reflection（反思）、Memory（记忆）、Emotion（情感）
-
-**技术栈**:
-- 桌面壳：Wails v2
-- 后端：Go 1.25+
-- 前端：React 18 + Vite 5 + Tailwind CSS 3
-- 数据库：SQLite（WAL 模式）
-- AI 提供商：DeepSeek / 智谱 GLM-4 / 通义千问
-- 定时调度：robfig/cron v3
-
----
-
 ## 📊 项目统计
 
 <div align="center">
@@ -387,34 +387,34 @@ Planner（计划）、Web（搜索）、TechAnalysis（技术分析）、Researc
       <th>主要技术</th>
     </tr>
     <tr>
-      <td>🔧 系统设计</td>
+      <td>🧠 数据与人工智能</td>
+      <td>2</td>
+      <td>Python, C++20</td>
+    </tr>
+    <tr>
+      <td>🤖 AI & Agent</td>
+      <td>3</td>
+      <td>Go, React, Python, Vue 3</td>
+    </tr>
+    <tr>
+      <td>💻 软件开发</td>
+      <td>3</td>
+      <td>C# (WPF), Vue.js, TypeScript</td>
+    </tr>
+    <tr>
+      <td>🔧 硬件设计</td>
+      <td>3</td>
+      <td>Verilog, FPGA</td>
+    </tr>
+    <tr>
+      <td>🖥️ 系统设计</td>
       <td>3</td>
       <td>OCaml, C, RISC-V</td>
-    </tr>
-    <tr>
-      <td>🧠 数据与人工智能</td>
-      <td>4</td>
-      <td>Python, C++, Vue 3</td>
-    </tr>
-    <tr>
-      <td>💻 硬件设计</td>
-      <td>3</td>
-      <td>Verilog, FPGA, PCB</td>
-    </tr>
-    <tr>
-      <td>📱 软件开发</td>
-      <td>3</td>
-      <td>C# (WPF), Vue.js, Python</td>
     </tr>
     <tr>
       <td>📚 知识管理</td>
       <td>1</td>
       <td>Markdown, Obsidian</td>
-    </tr>
-    <tr>
-      <td>🐣 其他</td>
-      <td>1</td>
-      <td>Go</td>
     </tr>
     <tr>
       <td><b>总计</b></td>

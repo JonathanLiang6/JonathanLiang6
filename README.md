@@ -108,13 +108,13 @@
 
 ## 📂 所有项目 (15)
 
-### 🐣 其他
-- **[Along](https://github.com/JonathanLiang6/Along)** — 多 Agent 智能助手桌面应用（Go + Wails + React）
-
 ### 🧠 数据与人工智能
-- **[KnowledgeGraph](https://github.com/JonathanLiang6/KnowledgeGraph)** — 个人知识库管理平台 v4.0（Python + Vue 3）
 - **[BayesSigmoid-Defocus](https://github.com/JonathanLiang6/BayesSigmoid-Defocus)** — 贝叶斯离焦剂量探索系统（Python）
 - **[PorterStemmer_Imitation](https://github.com/JonathanLiang6/PorterStemmer_Imitation)** — 基于 Porter Stemmer 的文本分析系统（C++20）
+
+### 🤖 AI & Agent
+- **[Along](https://github.com/JonathanLiang6/Along)** — 多 Agent 智能助手桌面应用（Go + Wails + React）
+- **[KnowledgeGraph](https://github.com/JonathanLiang6/KnowledgeGraph)** — 个人知识库管理平台 v4.0（Python + Vue 3）
 - **[天盾](https://github.com/JonathanLiang6/fanzha)** — 多模态反诈智能体助手（Python + Vue 3）
 
 ### 💻 软件开发
