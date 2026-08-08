@@ -23,22 +23,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Generate Stats Card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=JonathanLiang6&count_private=true&show_icons=true&theme=dracula&hide=contribs,prs
-          path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Top Languages Card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=JonathanLiang6&layout=compact&theme=dracula
-          path: dist/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"

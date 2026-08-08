@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/总计项目-15-40D6C0?style=for-the-badge" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/总计项目-15-238636?style=for-the-badge" alt="Total Projects" />
   <img src="https://img.shields.io/badge/技术领域-5-分类-blue?style=for-the-badge" alt="Categories" />
 
 </div>
@@ -22,7 +22,7 @@ Welcome to my project portfolio! 以下是我在 GitHub 上维护的所有公开
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23871EFF.svg?style=for-the-badge&logo=chroma&logoColor=white)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/KnowledgeGraph)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/KnowledgeGraph)
 
 </div>
 
@@ -53,7 +53,7 @@ Welcome to my project portfolio! 以下是我在 GitHub 上维护的所有公开
   ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![PyMC](https://img.shields.io/badge/PyMC-Bayesian-orange?style=for-the-badge)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/BayesSigmoid-Defocus)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/BayesSigmoid-Defocus)
 
 </div>
 
@@ -74,7 +74,7 @@ Welcome to my project portfolio! 以下是我在 GitHub 上维护的所有公开
 
   ![C++](https://img.shields.io/badge/c++20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/PorterStemmer_Imitation)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/PorterStemmer_Imitation)
 
 </div>
 
@@ -101,7 +101,7 @@ Welcome to my project portfolio! 以下是我在 GitHub 上维护的所有公开
   ![Vue.js](https://img.shields.io/badge/vue.js-%2335495E.svg?style=for-the-badge&logo=vue.js&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/fanzha)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/fanzha)
 
 </div>
 
@@ -127,7 +127,7 @@ Welcome to my project portfolio! 以下是我在 GitHub 上维护的所有公开
   ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
   ![WPF](https://img.shields.io/badge/WPF-%23512BD4.svg?style=for-the-badge)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/NoteMaster)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/NoteMaster)
 
 </div>
 
@@ -149,7 +149,7 @@ Welcome to my project portfolio! 以下是我在 GitHub 上维护的所有公开
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/CsharpLittleApps)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/CsharpLittleApps)
 
 </div>
 
@@ -172,7 +172,7 @@ Welcome to my project portfolio! 以下是我在 GitHub 上维护的所有公开
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/PythonCodeVisualization)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/PythonCodeVisualization)
 
 </div>
 
@@ -190,7 +190,7 @@ Python 代码可视化项目，用于 Python 语言教学。帮助学习者理�
   ![RISC-V](https://img.shields.io/badge/RISC--V-%23A6222C.svg?style=for-the-badge&logo=riscv&logoColor=white)
   ![FPGA](https://img.shields.io/badge/FPGA-%2300C5FF.svg?style=for-the-badge&logo=xilinx&logoColor=white)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/RISC-V_PipeLine_CPU)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/RISC-V_PipeLine_CPU)
 
 </div>
 
@@ -212,7 +212,7 @@ Python 代码可视化项目，用于 Python 语言教学。帮助学习者理�
   ![Verilog](https://img.shields.io/badge/verilog-%23d53a00.svg?style=for-the-badge&logo=verilog&logoColor=white)
   ![RISC-V](https://img.shields.io/badge/RISC--V-%23A6222C.svg?style=for-the-badge&logo=riscv&logoColor=white)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/RISC-V_SingleCycle_CPU)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/RISC-V_SingleCycle_CPU)
 
 </div>
 
@@ -234,7 +234,7 @@ Python 代码可视化项目，用于 Python 语言教学。帮助学习者理�
   ![Verilog](https://img.shields.io/badge/verilog-%23d53a00.svg?style=for-the-badge&logo=verilog&logoColor=white)
   ![FPGA](https://img.shields.io/badge/FPGA-Gowin-orange?style=for-the-badge)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/GW_Timer)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/GW_Timer)
 
 </div>
 
@@ -259,7 +259,7 @@ Python 代码可视化项目，用于 Python 语言教学。帮助学习者理�
 
   ![OCaml](https://img.shields.io/badge/ocaml-%233BE133.svg?style=for-the-badge&logo=ocaml&logoColor=white)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/toyc_compiler)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/toyc_compiler)
 
 </div>
 
@@ -280,7 +280,7 @@ Fork 自 Icarus-Yu/toyc_compiler。基于 OCaml 实现的编译器前端，支�
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![RISC-V](https://img.shields.io/badge/RISC--V-%23A6222C.svg?style=for-the-badge&logo=riscv&logoColor=white)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/xv6_labs)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/xv6_labs)
 
 </div>
 
@@ -301,7 +301,7 @@ xv6-labs-2022 实验代码库，基于 Unix v6 的教学操作系统。用于操
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/CSAPP_Labs)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/CSAPP_Labs)
 
 </div>
 
@@ -324,7 +324,7 @@ xv6-labs-2022 实验代码库，基于 Unix v6 的教学操作系统。用于操
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-%237C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/Liang_Online_Knowledge_Repository)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/Liang_Online_Knowledge_Repository)
 
 </div>
 
@@ -346,7 +346,7 @@ xv6-labs-2022 实验代码库，基于 Unix v6 的教学操作系统。用于操
 
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-  [![GitHub](https://img.shields.io/badge/查看项目-40D6C0?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/Along)
+  [![GitHub](https://img.shields.io/badge/查看项目-238636?style=for-the-badge&logo=github)](https://github.com/JonathanLiang6/Along)
 
 </div>
 
