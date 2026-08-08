@@ -3,7 +3,7 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/总计项目-15-238636?style=for-the-badge" alt="Total Projects" />
-  <img src="https://img.shields.io/badge/技术领域-5-分类-blue?style=for-the-badge" alt="Categories" />
+  <img src="https://img.shields.io/badge/技术领域-5-分类-%231f6feb?style=for-the-badge" alt="Categories" />
 
 </div>
 
@@ -350,7 +350,12 @@ xv6-labs-2022 实验代码库，基于 Unix v6 的教学操作系统。用于操
 
 </div>
 
-Go 语言项目，持续开发中。
+基于 Go 语言的项目，专注于高性能后端服务与并发编程实践。探索 Go 在系统级编程和云原生应用中的最佳实践。
+
+**核心特性**:
+- Go 语言核心特性实践
+- 并发编程与 goroutine 应用
+- 持续开发与迭代中
 
 ---
 
