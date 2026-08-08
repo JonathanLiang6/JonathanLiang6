@@ -3,7 +3,6 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/总计项目-15-238636?style=for-the-badge" alt="Total Projects" />
-  <img src="https://img.shields.io/badge/技术领域-5-分类-%231f6feb?style=for-the-badge" alt="Categories" />
 
 </div>
 
