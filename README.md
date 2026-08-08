@@ -22,29 +22,20 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=JonathanLiang6&show_icons=true&hide_border=true&count_private=true&title_color=238636&icon_color=238636&text_color=C9D1D9&bg_color=0D1117&hide=contribs,prs&rank=3" alt="GitHub Stats" />
-      </td>
-      <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanLiang6&background=0D1117&color=238636&stroke=238636&ring=238636&fire=238636&currStreakLabel=238636&sideLabels=238636&dates=238636&currStreakNum=238636&sideNums=238636&border=30363D" alt="GitHub Streak" />
       </td>
-    </tr>
-    <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=JonathanLiang6&show_icons=true&hide_border=true&count_private=true&title_color=238636&icon_color=238636&text_color=C9D1D9&bg_color=0D1117&include_all_icons=true" alt="Trophies" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-wakatime.vercel.app/api?username=JonathanLiang6&hide_border=true&title_color=238636&text_color=C9D1D9&icon_color=238636&bg_color=0D1117" alt="WakaTime" />
+        <div style="background:0D1117;border:1px solid 30363D;border-radius:12px;padding:24px 28px;min-width:320px;max-width:380px;min-height:196px;display:flex;flex-direction:column;justify-content:center;align-items:center;font-family:'Segoe UI',system-ui,sans-serif;">
+          <div style="font-size:18px;color:#C9D1D9;line-height:1.7;text-align:center;font-style:italic;">
+            "我与我周旋久，宁作我"
+          </div>
+          <div style="margin-top:16px;font-size:13px;color:#238636;text-align:right;width:100%;">
+            —— 《世说新语》
+          </div>
+        </div>
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="./dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=random&theme=dark&bg=0D1117&color=C9D1D9&quote=238636" alt="Quote" />
 </div>
 
 ---
